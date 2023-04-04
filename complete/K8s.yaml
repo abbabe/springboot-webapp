@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: hello-spring
-          image: abbabe/springboot
+          image: abbabe/springboot:v1.1
           ports:
             - containerPort: 8080
 ---
