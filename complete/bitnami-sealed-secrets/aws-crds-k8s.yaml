@@ -1,0 +1,9 @@
+apiVersion: v1
+data:
+  apikey: emFDRUxnTC1vaW1mbmM4bVZMV3dzQWFqWXI0UngtQWY1MEREcXRseA==
+  password: cGFTc3cwcnJELTFlclQtZGlT
+  username: YWRtaW4tZGV2LWdyb3Vw
+kind: Secret
+metadata:
+  creationTimestamp: null
+  name: aws-crds-k8s
